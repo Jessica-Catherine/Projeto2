@@ -1,0 +1,12 @@
+.barra{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    align-items: center;
+    width: 100% ;
+
+}
+
+.barra svg{
+    font-size: 1.5em;
+}
